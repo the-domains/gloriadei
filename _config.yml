@@ -1,0 +1,14 @@
+layout_spectrum: 0.3212766
+color:
+  saturation: 0.3595745
+  lightness: 0.6468085
+  brandStrength: 1
+  brandColors:
+    - '#161417'
+    - '#6F6654'
+    - '#D7CEC6'
+    - '#FFFFFB'
+    - '#651528'
+  rhythmicContrast: 0.8066034
+typography_spectrum: 0.1531915
+name: GloriaDei
