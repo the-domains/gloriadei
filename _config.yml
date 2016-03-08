@@ -1,3 +1,7 @@
+name: GloriaDei
+favicon: null
+layout_spectrum: 0.7553192
+typography_spectrum: 0.1531915
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1531915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3595745
-  brandStrength: 1
-  rhythmicContrast: 0.8066034
   brandColors:
     - '#161417'
     - '#6F6654'
     - '#D7CEC6'
     - '#FFFFFB'
     - '#651528'
+  brandStrength: 1
   lightness: 0.6468085
-layout_spectrum: 0.7553192
-name: GloriaDei
+  saturation: 0.3595745
+  rhythmicContrast: 0.8066034
+purpose: []
